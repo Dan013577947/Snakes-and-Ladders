@@ -19,6 +19,7 @@ I included a video of it working in my Facebook and Youtube Channel, feel free t
 4. There will be pop up, select Find Python extension then install Python
 5. Click snakes_and_ladders.py then select Run and Debug then select Python Debugger, then Python File
 6. Wait for the loading, then see in Terminal if the program is running
+7. Maximize the size of Terminal to see the whole game
 ## Key Learnings
 - Data Structures and Algorithm
 - Strengthened problem solving and logical thinking
