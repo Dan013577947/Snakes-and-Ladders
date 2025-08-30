@@ -6,7 +6,9 @@ data manipulation and algorithms. I earned money with this game after selling it
 I included a video of it working in my Facebook and Youtube Channel, feel free to watch my work :) 
 
 This is a video of me on 2022 teaching my classmates https://drive.google.com/file/d/1XT6Dam6_Mtn7xvx23NcTR5Y2w_6nRcWz/view?usp=sharing. I sold the program to lots of my classmates and I also sent them this video to understand the codes. 
-**Note:** I have the permission to record with the people on this video and share it
+
+**Note:** 
+    I have the permission to record with the people on this video and share it
 ## Video Link
 - **Facebook**: [Watch on FB](https://www.facebook.com/share/v/1CrK9MEjZW/)
 - **Youtube**: [Watch on YT](https://www.youtube.com/watch?v=GhApr2gbvSQ)
