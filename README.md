@@ -1,7 +1,7 @@
 
 # Snakes and Ladders
 ## Overview
-Snakes and Ladders is a final group project in one of my subjects in College. There are mini and large Pythons on the way which give demotions and Ladders which gives promotions. A dice based game, click 'y' each time to roll a dice and move forward. The game includes
+Snakes and Ladders is a final group project in one of my subjects in College. There are mini and large Pythons on the way which give demotions and Ladders which give promotions. A dice based game, click 'y' each time to roll a dice and move forward. The game includes
 data manipulation and algorithms. I earned money with this game after selling it to my classmates, I also taught them Python language and explained how my program works. I included a video of it working in my Facebook and Youtube Channel, feel free to watch my work :) 
 ## Video Link
 - **Facebook**: [Watch on FB](https://www.facebook.com/share/v/1CrK9MEjZW/)
