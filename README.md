@@ -6,7 +6,7 @@ data manipulation and algorithms. I earned money with this game after selling it
 ## Video Link
 - **Facebook**: [Watch on FB](https://www.facebook.com/share/v/1CrK9MEjZW/)
 - **Youtube**: [Watch on YT](https://www.youtube.com/watch?v=GhApr2gbvSQ)
-- **This is a video of me on 2022 teaching my classmates**: [Watch the recorded meeting](https://youtu.be/WvVE1GdGs2I)
+- **This is a video of me on 2022 teaching my classmates Python language**: [Watch the recorded meeting](https://youtu.be/WvVE1GdGs2I)
 
 
 **Note:**    I have the permission to record with the people on this video and share it. I sold the program to my classmates and I also sent them this video to understand the codes.
